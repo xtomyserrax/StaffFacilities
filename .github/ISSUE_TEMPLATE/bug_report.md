@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
+### Issue description
 <!--
 **Do not use hastebin or other time-limited services to post your logs**
 Suggested alternatives: https://gist.github.com or https://pastebin.com
@@ -17,9 +18,7 @@ If you have a console error, please do not make a report without posting the log
 
 If you a reporting a console error, take the earliest version in the console log to make sure none of the error is cut off. -->
 
-
 ### Server information
-
 **Server version and type**: 
 
 **Staff Facilities version**: 
@@ -31,19 +30,19 @@ If you a reporting a console error, take the earliest version in the console log
 **Please type /sf bugreport and send me the log it generates in a pastebin**: 
 
 ### Issue information
-**Describe the issue**
+**Describe the issue**:
 A clear and concise description of what the bug is.
 
-**How To Reproduce**
+**How To Reproduce**:
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Error Log**
+**Error Log**:
 
-**Screenshots if you have**
+**Screenshots if you have**:
 
-**Additional information**
+**Additional information**:
 Add any other context about the problem here.
