@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-### Issue description
 <!--
 **Do not use hastebin or other time-limited services to post your logs**
 Suggested alternatives: https://gist.github.com or https://pastebin.com
@@ -18,7 +17,9 @@ If you have a console error, please do not make a report without posting the log
 
 If you a reporting a console error, take the earliest version in the console log to make sure none of the error is cut off. -->
 
+
 ### Server information
+
 **Server version and type**: 
 
 **Staff Facilities version**: 
