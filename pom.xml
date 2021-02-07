@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>StaffFacilitiesAPI</groupId>
 	<artifactId>StaffFacilitiesAPI</artifactId>
-	<version>5.0.6</version>
+	<version>5.0.6.0</version>
 	<name>StaffFacilitiesAPI</name>
 	<url>https://www.spigotmc.org/resources/staff-facilities.13097/</url>
 	<build>
